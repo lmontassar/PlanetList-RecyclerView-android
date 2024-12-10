@@ -29,7 +29,7 @@ A list of `Planet` objects is created in the main activity to populate the Recyc
 3. Run the application on an emulator or physical device
 
 ## Screenshots
-[Include a screenshot of your application here]
+![8](https://github.com/user-attachments/assets/c67821b7-2061-4aa9-9b2b-6adb9dd52f15)
 
 ## Authors
 - [CHOUKANI HALIM](https://github.com/halimchoukani)
